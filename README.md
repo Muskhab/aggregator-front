@@ -31,7 +31,7 @@
 Для запуска проекта вам необходимо набрать команду в терминале:
 
 ```javascript
-cd yedoo-frontend
+cd aggregator-front
 ```
 
 ```javascript
@@ -46,18 +46,18 @@ npm start
 
 ## Использованный стек технологий 🛠
 
-
 - React
 - Node.js
 - Express
 - MongoDB
-
 
 ## Использованные библиотеки 📚
 
 - Redux
 - Redux Thunk
 - React Router
+- Redux DevTools
+- React Scroll
 - Mongoose
 - Multer
 - bcrypt
@@ -65,14 +65,16 @@ npm start
 - Moment.js
 - dotenv
 - Axios
-- React Scroll
 - MaterialUI
 - CleaveJS
+- CORS
+- Nodemon
+- Prettier
 
 ## Команда проекта
 
 <h3>
-  <a href="https://github.com/zhelezobeton">
+  <a href="https://github.com/muskhab">
         🌐Мусхаб Исраилов
   </a>
 </h3>
